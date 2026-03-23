@@ -1,7 +1,7 @@
 # My Own HelpDesk Ticketing System
 
 ## Overview
-I built a HelpDesk ticketing system using Google Forms and Google Sheets to simulate the day to day life of a IT support employee.
+Built and managed a helpdesk ticketing system using Google Forms and Sheets, tracking incidents, assigning tickets, and documenting resolutions.
 
 ## Features
 
@@ -28,3 +28,8 @@ I built a HelpDesk ticketing system using Google Forms and Google Sheets to simu
 - Incident response and prioritization
 - Troubleshooting documentation
 - Data organization and filtering
+
+# Screenshots 
+
+![Form](ticketing-system-1.png)
+![Dashboard/Tickets](ticketing-system-3.png)
